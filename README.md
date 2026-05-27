@@ -73,9 +73,9 @@ GitHub
 
 
 👨‍💻 Developed By
-Aayush Yadav
-Manish Solanki
-Parth Joshi
+Aayush Yadav,
+Manish Solanki,
+Parth Joshi and
 Saurabh Jah
 for Semester 5 Mini Project
 Bachelor of Engineering in Information Technology
