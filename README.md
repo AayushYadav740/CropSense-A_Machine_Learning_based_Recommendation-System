@@ -77,7 +77,7 @@ Aayush Yadav,
 Manish Solanki,
 Parth Joshi and
 Saurabh Jhs
-for Semester 5 Mini Project
+for Semester 6 Mini Project
 Bachelor of Engineering in Information Technology
 
 
