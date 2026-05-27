@@ -72,11 +72,11 @@ CropSense 🌱
 - GitHub
 
 
-👨‍💻 Developed By
+Developed By
 Aayush Yadav,
 Manish Solanki,
 Parth Joshi and
-Saurabh Jhs
+Saurabh Jha
 for Semester 6 Mini Project
 Bachelor of Engineering in Information Technology
 
