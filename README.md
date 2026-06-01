@@ -72,6 +72,10 @@ Technologies Used
 - GitHub
 
 
+License
+- This project is developed for educational and academic purposes.
+
+
 Developed By
 Aayush Yadav,
 Manish Solanki,
@@ -79,7 +83,3 @@ Parth Joshi and
 Saurabh Jha
 for Semester 6 Mini Project
 Bachelor of Engineering in Information Technology
-
-
-License
-- This project is developed for educational and academic purposes.
