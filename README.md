@@ -6,7 +6,7 @@ CropSense 🌱
 - The project aims to reduce traditional guesswork in farming and promote efficient resource utilization using intelligent recommendation techniques.
 
 
-📌 Features
+- Features
 
 🌾 Crop Recommendation
 - Predicts the most suitable crop based on:
@@ -29,7 +29,7 @@ CropSense 🌱
 - Helps users take preventive measures against crop damage.
 
 
-🧠 Machine Learning Algorithms Used
+Machine Learning Algorithms Used
 - The project experiments with multiple supervised learning algorithms:
 - Random Forest
 - Decision Tree
@@ -39,7 +39,7 @@ CropSense 🌱
 - Among these, Random Forest was selected as the primary model due to its better accuracy and reduced overfitting.
 
 
-🏗️ System Architecture
+System Architecture
 - The system follows a simple client-server architecture:
 - User enters soil and environmental parameters.
 - Input data is preprocessed.
@@ -49,7 +49,7 @@ CropSense 🌱
 - Final recommendations are displayed to the user.
 
 
-💻 Technologies Used
+Technologies Used
 - Frontend
 - HTML
 - CSS
@@ -81,5 +81,5 @@ for Semester 6 Mini Project
 Bachelor of Engineering in Information Technology
 
 
-📄 License
+License
 - This project is developed for educational and academic purposes.
