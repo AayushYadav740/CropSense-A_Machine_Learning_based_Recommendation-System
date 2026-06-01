@@ -28,7 +28,7 @@ Features
 - Provides pesticide suggestions based on pest-related input.
 - Helps users take preventive measures against crop damage.
 
--
+
 Machine Learning Algorithms Used
 - The project experiments with multiple supervised learning algorithms:
 - Random Forest
@@ -38,7 +38,7 @@ Machine Learning Algorithms Used
 - Naive Bayes
 - Among these, Random Forest was selected as the primary model due to its better accuracy and reduced overfitting.
 
--
+
 System Architecture
 - The system follows a simple client-server architecture:
 - User enters soil and environmental parameters.
@@ -48,7 +48,7 @@ System Architecture
 - Pesticide recommendation module suggests suitable pesticides.
 - Final recommendations are displayed to the user.
 
--
+
 Technologies Used
 - Frontend
 - HTML
@@ -71,7 +71,7 @@ Technologies Used
 - Git
 - GitHub
 
--
+
 Developed By
 Aayush Yadav,
 Manish Solanki,
@@ -80,6 +80,6 @@ Saurabh Jha
 for Semester 6 Mini Project
 Bachelor of Engineering in Information Technology
 
--
+
 License
 - This project is developed for educational and academic purposes.
